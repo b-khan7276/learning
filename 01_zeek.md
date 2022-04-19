@@ -23,3 +23,7 @@ Release.key
 ● # /opt/zeek/bin/zeek -h
 
 ``` 
+## Or 
+[zeek docs](https://docs.zeek.org/en/master/install.html)
+
+
