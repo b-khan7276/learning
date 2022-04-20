@@ -26,4 +26,12 @@ Release.key
 ## Or 
 [zeek docs](https://docs.zeek.org/en/master/install.html)
 
+## Comprehensive logs = Attackers can't hide
+
+<p>
+   Zeek turns raw network traffic into Comprehensive logs organized by protocol, with key fiels extracted specifically for security use cases
+   </p>
+   
+   
+
 
