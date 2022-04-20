@@ -33,5 +33,25 @@ Release.key
    </p>
    
    
+`network.cfg`
+ - Monitor the network you want enternal or external
+ 
+ `node.cfg`
+ - Select the interface like eth0, wlan0
+ 
+ `zeekctl.cfg`
+ - All the configrations, where are the roots files etc
+ 
+ ### Runing the zeek
+ ```bash
+ zeekctl deploy
+ 
+ ## Check status
+ zeekctl status
+ ```
+ ### Check the logs
+  
+```bash
+/opt/zeel/spool
 
-
+```
