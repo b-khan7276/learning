@@ -55,3 +55,15 @@ Release.key
 /opt/zeel/spool
 
 ```
+### stop the zeek
+```bash
+zeekctl stop
+```
+#### Check all the logs
+```
+/opt/zeek/logs/
+```
+
+[Wazuh] can be used to view the details
+
+
