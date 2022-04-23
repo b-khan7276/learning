@@ -65,5 +65,30 @@ zeekctl stop
 ```
 
 [Wazuh] can be used to view the details
+-----------------------------------------------------------------------------------
+
+### Installing zeek-cut
+
+ - From the dithub page download [zeek-aux](https://github.com/zeek/zeek-aux) 
+ - Extract the zeek-aux clone in to `/opt/` folder
+ - Now download the dependencies for zeek-aux [cmake](https://github.com/zeek/cmake)
+ - Now install the zeek-aux by
+ ```bash
+ ./configure
+ # step 2
+ sudo make
+ # step 3
+ sudo make install
+```
+ - Set the path for zeek-cut
+ - update the Database by `updatedb`
+ - locate the file by `locate zeek-cut`
+ - type $PATH in terminal 
+ - select the path you want to copy zeek-cut into
+ ```bash
+ mv /use/bin/zeek-cut /use/bin
+ ```
+ - Now type `zeek-cut -h` in terminal for help menu
+ - 
 
 
