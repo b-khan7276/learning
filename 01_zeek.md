@@ -89,6 +89,7 @@ zeekctl stop
  mv /use/bin/zeek-cut /use/bin
  ```
  - Now type `zeek-cut -h` in terminal for help menu
- - 
+ - [Zeek cheat sheet](https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.5.pdf)
+ 
 
 
